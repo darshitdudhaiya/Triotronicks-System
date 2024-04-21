@@ -1,0 +1,61 @@
+<p>
+
+                            <span style="font-family: &quot;Calibri&quot;; font-size: 18px;">﻿</span><b><span style="font-family: &quot;Verdana&quot;; font-size: 36px;">Software Development
+                        </span></b></p><div class="service-details__content"><p class="project-full-width__text-1">Trio 
+Infotech is a dynamic and rapidly evolving sector that encompasses a 
+wide range of businesses involved in the development, management, and 
+application of computer-based information systems and technologies. It 
+plays a crucial role in driving innovation, communication, and 
+efficiency across various industries.</p>
+
+                        <ul class="list-unstyled service-details__benefits-list"><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Software Development</p>
+                                </div>
+                            </li><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Website Development</p>
+                                </div>
+                            </li><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>IT Services</p>
+                                </div>
+                            </li><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Networking</p>
+                                </div>
+                            </li><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Data Analytics</p>
+                                </div>
+                            </li><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Mobile Applications</p>
+                                </div>
+                            </li><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>SEO</p>
+                                </div>
+                            </li></ul>
+                    </div>

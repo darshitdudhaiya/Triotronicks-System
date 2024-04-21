@@ -1,0 +1,56 @@
+<p>
+
+                            <span style="font-family: &quot;Calibri&quot;; font-size: 18px;">﻿</span><b><span style="font-family: &quot;Verdana&quot;; font-size: 36px;">Desktop &amp; Laptop Computers
+						</span></b></p><div class="service-details__content"><p class="project-full-width__text-1">Triotronick Systems Provides
+ entire range of Desktop / Laptop / Personal Computing solution as per 
+enterprise and individual client’s requirements. We also provide 24X7 
+Support for entire range of products.</p>
+						<p class="project-full-width__text-1 fw-bold"><b>Triotronick Systems provides Personal computing sells and support for products as under:</b></p>
+						<ul class="list-unstyled service-details__benefits-list "><li>
+								<div class="icon">
+									<span class="icon-check"></span>
+								</div>
+								<div class="text">
+									<p>Workstation</p>
+								</div>
+							</li><li>
+								<div class="icon">
+									<span class="icon-check"></span>
+								</div>
+								<div class="text">
+									<p>Desktop Computer</p>
+								</div>
+							</li><li>
+								<div class="icon">
+									<span class="icon-check"></span>
+								</div>
+								<div class="text">
+									<p>Laptop</p>
+								</div>
+							</li><li>
+								<div class="icon">
+									<span class="icon-check"></span>
+								</div>
+								<div class="text">
+									<p>Notebook</p>
+								</div>
+							</li><li>
+								<div class="icon">
+									<span class="icon-check"></span>
+								</div>
+								<div class="text">
+									<p>Tablet PC</p>
+								</div>
+							</li><li>
+								<div class="icon">
+									<span class="icon-check"></span>
+								</div>
+								<div class="text">
+									<p>Server Computers</p>
+								</div>
+							</li></ul>
+						<p class="project-full-width__text mt-5">At Triotronick Systems, 
+we are committed to offer you the best branded Dell, HP, Lenovo, Asus, 
+Acer, Sony laptops &amp; desktops, as one of reputed authorized dealers 
+&amp; distributors in Jamnagar, Gujarat.</p>
+					</div>

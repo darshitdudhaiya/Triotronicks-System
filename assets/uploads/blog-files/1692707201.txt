@@ -1,0 +1,48 @@
+<p><b><span style="font-size: 36px;">Solar Rooftop Service</span></b></p><p><span style="font-size: 16px;"><br></span></p><p>Triotronick Systems offering a valuable and environmentally friendly 
+solution to harness the power of the sun to generate electricity. Solar 
+rooftop service involves the installation, maintenance, and management 
+of solar panels on the rooftops of residential, commercial, and 
+industrial buildings. These panels convert sunlight into electricity, 
+providing a clean and renewable energy source to the property owners.</p><p><br></p><ul class="list-unstyled service-details__benefits-list"><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Site Assessment</p>
+                                </div>
+                            </li><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Design and Engineering</p>
+                                </div>
+                            </li><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Installation</p>
+                                </div>
+                            </li><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Maintenance and Monitoring</p>
+                                </div>
+                            </li><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Long-Term Investment</p>
+                                </div>
+                            </li><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Customer Support</p>
+                                </div>
+                            </li></ul><p></p>                            <span style="font-family: &quot;Calibri&quot;; font-size: 18px;">﻿</span><p></p>                            <span style="font-size: 18px;">﻿</span><p></p>

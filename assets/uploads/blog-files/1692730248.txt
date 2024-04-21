@@ -1,0 +1,71 @@
+<p>
+
+                            <span style="font-family: &quot;Calibri&quot;; font-size: 18px;">﻿</span><b><span style="font-family: &quot;Verdana&quot;;"><span style="font-size: 36px;">Networking Solution
+</span>                        </span></b></p><div class="service-details__content"><p class="project-full-width__text-1">Connectivity
+ solution is a fundamental need of any of the organization to keep its 
+business run efficiently. It is a field that needs all-round know-how of
+ the field to keep the business better connected with its ongoing 
+activities.</p>
+                        <p class="project-full-width__text-1">We are 
+computer hardware professionals who take care of the maintenance of 
+computer hardware, while networking involves connecting a group of 2 or 
+more computer systems for sharing data and information. The 
+professionals engaged in R&amp;D of computer hardware and networks are 
+known as hardware and networking engineers. Besides looking after 
+computer maintenance they are also liable for supervising and designing 
+the hardware installation and manufacturing process. The increasing use 
+of computer, laptops and internets has expanded the scope of hardware 
+and networking sector widely.</p>
+                        <p class="project-full-width__text-1">Our 
+strength over the years have been in providing all types of Networking 
+solutions which has been further enhanced by virtue of being the Premier
+ Certified Partner for CISCO. The broad range of CISCO LAN solutions 
+provides performance, scalability, manageability and integration for 
+more bandwidth and ports. Apart from CISCO products, the other 
+networking products that we incorporate in our networking solutions are 
+top of the line products from Digisol, TP-Link, D-Link, 3Com, etc.</p>
+                        <p class="project-full-width__text-1">Triotronick
+ Systems also offer solutions for Wi-Fi, that cut costs, improve 
+operational efficiencies, share data across multiple systems, include 
+building industrial automation systems and enterprise IT management 
+systems with backend applications. Our portfolio includes one of the 
+most comprehensive Wi-Fi and Mesh Solutions available in the industry 
+today.</p>
+                        <p class="project-full-width__text-1 fw-bold"><b>The Networking solutions that we offer could broadly classified as under:</b></p>
+
+                        
+                        <ul class="list-unstyled service-details__benefits-list"><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Site Planning using operation research techniques &amp; scheduling cable laying.</p>
+                                </div>
+                            </li><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Network Management</p>
+                                </div>
+                            </li><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Network Security Planning &amp; Implementation</p>
+                                </div>
+                            </li><li>
+                                <div class="icon">
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="text">
+                                    <p>Structured Cabling</p>
+                                </div>
+                            </li></ul>
+                        <p class="project-full-width__text mt-5">We are 
+the notable HP, Canon and Epson Authorized Dealers in Jamnagar for 
+photocopier and imaging products with developed portfolio including of 
+major corporate houses, public sectors units, and businesses across 
+Gujarat.</p>
+                    <span style="font-size: 36px;">﻿</span></div>
